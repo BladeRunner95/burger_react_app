@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# burger_react_app
+React app with authorization, routing, async code, state managers...
+>>>>>>> a79d200aa8a382ca6194c41a42f4530a7f1f034a
