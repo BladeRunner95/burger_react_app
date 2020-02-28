@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/burger-app.iml" filepath="$PROJECT_DIR$/.idea/burger-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../http--01-starting-setup/.idea/http--01-starting-setup.iml" filepath="$PROJECT_DIR$/../http--01-starting-setup/.idea/http--01-starting-setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pxl/pxl-app/.idea/pxl-app.iml" filepath="$PROJECT_DIR$/../pxl/pxl-app/.idea/pxl-app.iml" />
+    </modules>
+  </component>
+</project>
